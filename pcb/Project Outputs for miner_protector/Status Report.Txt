@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [miner_protector.PrjPcb]
+   Generated File[miner_protector.TXT]
+   Generated File[miner_protector.LDP]
+   Generated File[miner_protector.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:07:20 AM On 5/2/2023
